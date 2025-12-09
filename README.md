@@ -8,3 +8,4 @@ Contracts · Payments · Vendor Vetting · Decor · Invitations · Honeymoon
 Everything done inside. Your team only handles the magic in person.
 
 Open index.html and begin.
+Force rebuild for Pages
