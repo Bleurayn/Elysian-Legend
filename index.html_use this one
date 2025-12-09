@@ -5,6 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ELYSIAN ⋅ Where Love Becomes Legend</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Cormorant+Garamond:wght@300;600&family=Inter:wght@300;600&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.birds.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/splitting@1.0.6/dist/splitting.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
+  <script src="https://js.stripe.com/v3/"></script>
   <style>
     :root{--gold:#D4AF37;--sage:#9CAF88;--midnight:#0A1628;--pearl:#F9F5F0;}
     body,html{margin:0;height:100%;background:var(--midnight);color:white;font-family:'Inter',sans-serif;overflow:hidden;}
@@ -19,14 +23,9 @@
   <div class="center">
     <h1 data-splitting>ELYSIAN</h1>
     <p style="font-family:'Playfair Display',serif;font-size:2.2rem;opacity:0.9;">Where Love Becomes Legend</p>
-    <button onclick="startLegend()">Begin Your Legend</button>
+    <button onclick="startElysian()">Begin Your Legend</button>
   </div>
-
   <div id="app" style="display:none;"></div>
-
-  <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.birds.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/splitting@1.0.6/dist/splitting.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
   <script src="legend.js"></script>
 </body>
 </html>
