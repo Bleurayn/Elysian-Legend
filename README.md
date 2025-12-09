@@ -1,11 +1,10 @@
 # Elysian-Legend
 Where Love Becomes Legend — the most beautiful wedding experience ever built.
-# ELYSIAN ⋅ Where Love Becomes Legend
+# ELYSIAN — Where Love Becomes Legend
 
-The most beautiful wedding experience ever built.
+The world's first all-in-one luxury wedding platform.
 
-Open index.html and click "Begin Your Legend".
+Contracts · Payments · Vendor Vetting · Decor · Invitations · Honeymoon  
+Everything done inside. Your team only handles the magic in person.
 
-No backend. No tracking. Pure magic.
-
-There is no competitor.
+Open index.html and begin.
